@@ -1,5 +1,6 @@
 # leaflet-ellipse
 Leaflet plugin for drawing ellipse. [Demo](https://moebiussolutions.github.io/leaflet-ellipse/)
+
 # Important
 Leaflet.draw-ellipse requires 
 
@@ -55,3 +56,10 @@ Leaflet.draw-ellipse requires
 ## License
 
 This code is provided under the Apache 2.0 license.
+
+## Build
+
+```
+npm install
+npm run build
+```

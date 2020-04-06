@@ -7,9 +7,8 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "create": "npx rollup --config rollup.config.js",
     "minify": "npx rollup --config rollup.minify.config.js",
-    "gzip": "npx rollup --config rollup.gzip.config.js",
     "dev": "npx rollup -w --config rollup.config.js",
-    "build": "npm-run-series create minify gzip"
+    "build": "npm-run-series create minify"
   },
   "repository": {
     "type": "git",
