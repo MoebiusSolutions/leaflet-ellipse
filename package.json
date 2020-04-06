@@ -34,7 +34,5 @@
     "rollup-plugin-uglify": "^2.0.1",
     "uglify-js": "^3.0.26"
   },
-  "dependencies": {
-    "the-answer": "^1.0.0"
-  }
+  "dependencies": {}
 }
